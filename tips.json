@@ -1,0 +1,17 @@
+{
+    "normal": "\u2705 All vitals are within normal range. Keep up the healthy habits!",
+    "abnormal": {
+        "heart_rate": {
+            "low": "\u26a0\ufe0f Heart rate is too low (bradycardia). Sit or lie down and consult your doctor if you feel dizzy.",
+            "high": "\u26a0\ufe0f Heart rate is too high (tachycardia). Try deep breathing or resting. If it persists, seek medical advice."
+        },
+        "oxygen_level": {
+            "low": "\u26a0\ufe0f Oxygen level is low. Ensure you're in a well-ventilated area and take slow, deep breaths. Contact a doctor if it remains low.",
+            "high": "\u26a0\ufe0f Oxygen level is high . Take a rest."
+        },
+        "temperature": {
+            "low": "\u26a0\ufe0f Body temperature is unusually low. Cover yourself and drink warm fluids. Seek help if symptoms worsen.",
+            "high": "\u26a0\ufe0f High temperature detected. Stay hydrated, rest, and monitor for fever symptoms. Consult a doctor if needed."
+        }
+    }
+}
